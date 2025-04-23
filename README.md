@@ -20,6 +20,6 @@ Para rodar o projeto:
 * baixe o projeto no seu computador
 * acesse a pasta /oneclickticket e digite o comando "composer install"
 * rode o servidor utilizando o comando "php artisan serve"
-* acesse no navegador localhost:8080/oneclickticket
+* acesse no navegador localhost:8080
 -------------------------------------------------------------------------------------
 Em breve, manual de utilização aqui! :)
