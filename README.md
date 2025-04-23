@@ -21,8 +21,7 @@ Para rodar o projeto:
 * Acesse a pasta oneclickticket e digite o comando "composer install"
 * Rode as migrações com o comando "php artisan migrate"
 * Rode o servidor utilizando o comando "php artisan serve"
-* Acesse no navegador localhost:8080
-* Acesse no navegador localhost:8080/admin, acesse com usuário "admin" senha "admin" e altere a senha assim que possível
+* Acesse no navegador localhost:8080/admin, acesse com usuário "admin" senha "admin"
 * No painel de admin, cadastre seus usuários e suas permissões
 * Acesse o sistema em localhost:8080/login com o usuário cadastrado
 
