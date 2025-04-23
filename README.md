@@ -7,4 +7,19 @@ A proposta do One Click Ticket é implantar progressivamente um sistema de contr
 
 O One Click Ticket vai permitir a evolução do controle de tickets de uma simples geração de senha até um sistema de ITSM completo!
 
+-------------------------------------------------------------------------------------
+Informações do projeto:
 
+* PHP 8.2.12
+* Laravel 11
+* MySQL/MariaDB 10
+* Composer
+-------------------------------------------------------------------------------------
+Para rodar o projeto:
+
+* baixe o projeto no seu computador
+* acesse a pasta /oneclickticket e digite o comando "composer install"
+* rode o servidor utilizando o comando "php artisan serve"
+* acesse no navegador localhost:8080/oneclickticket
+-------------------------------------------------------------------------------------
+Em breve, manual de utilização aqui! :)
